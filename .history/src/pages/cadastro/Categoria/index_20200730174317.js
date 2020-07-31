@@ -41,7 +41,7 @@ function CadastroCategoria() {
           return; 
         }
         throw new Error('Não foi possível pegar os dados');
-      })
+       })
     }    
   }, []);
 

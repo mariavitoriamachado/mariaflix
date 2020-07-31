@@ -1,0 +1,235 @@
+{
+    "categorias": [
+      {
+        "id": 1,
+        "titulo": "Hipters Ponto Tube",
+        "cor": "#6BD1FF",
+      },
+      {
+        "id": 2,
+        "titulo": "Livros",
+        "cor": "#00C86F",
+        
+      },
+      {
+        "id": 3,
+        "titulo": "Séries",
+        "cor": "#9cd33b",
+       
+      },
+      {
+        "id": 4,
+        "titulo": "Filmes",
+        "cor": "orange"
+      },
+      {
+        "id": 5,
+        "titulo": "Inspiração",
+        "cor": "#6b5be2",
+       
+      },
+      {
+        "id": 6,
+        "titulo": "Músicas",
+        "cor": "red",
+       
+      }
+    ],
+    "videos": [
+      {
+        "id": 1,
+        "categoriaId": 1,
+        "titulo": "O que é JavaScript?",
+        "url": "https://youtu.be/NaVSbnnV75Q"
+      },
+      {
+        "id": 2,
+        "categoriaId": 1,
+        "titulo": "O que é React JS?",
+        "url": "https://youtu.be/6IuQUgeDPg0"
+      },
+      {
+        "id": 3,
+        "categoriaId": 1,
+        "titulo": "Como posso estudar melhor? ",
+          "url": "https://youtu.be/Is6c9KSGCbk"
+      },
+      {
+        "id": 4,
+        "categoriaId": 1,
+        "titulo": "Como funciona o StackOverflow?",
+          "url": "https://youtu.be/VY4tOs4UPhQ"
+      },
+      {
+        "id": 5,
+        "categoriaId": 1,
+        "titulo": "4 mitos sobre programação ",
+        "url": "https://youtu.be/yj0FR_gm0sM"
+      },
+      
+      {
+        "id": 6,
+        "categoriaId": 1,
+        "titulo": "O que é Node JS?",
+        "url": "https://youtu.be/GKR6uSvEj8w"
+      
+      },
+      {
+        "id": 7,
+        "categoriaId": 1,
+        "titulo": "O que é Marketing Digital? ",
+        "url": "https://youtu.be/auScm23M9AQ"
+        },
+      {
+        "id": 8,
+        "categoriaId": 1,
+        "titulo": "Vale a pena participar de comunidades de tecnologia? ",
+        "url": "https://youtu.be/jGI-fZZYH-Y" 
+      },
+      {
+        "id": 9,
+        "categoriaId": 2,
+        "titulo": "10 LIVROS para Programar",
+        "url": "https://youtu.be/zdjEoEFBaZY"
+      },
+      {
+        "id": 10,
+        "categoriaId": 2,
+        "titulo": "10 livros que todo programador deveria ler",
+        "url": "https://youtu.be/miaH3i8gD3I"
+      },
+      {
+        "id": 11,
+        "categoriaId": 2,
+        "titulo": "Os 3 Livros Que Fizeram Eu Não Desistir da Programação (e o que aprendi com eles)",
+        "url": "https://youtu.be/Uh0Kn2aXEqY"
+    
+      },
+      {
+        "id": 12,
+        "categoriaId": 2,
+        "titulo": "Clean Code // Dicionário do Programador",
+        "url": "https://youtu.be/ln6t3uyTveQ"
+      },
+      {
+        "id": 13,
+        "categoriaId": 2,
+        "titulo": "QUAL O MELHOR: Livros em Português ou Inglês? (qual eu leio e indico?)",
+        "url": "https://youtu.be/moHwEGTxRk0"
+      },
+      {
+        "id": 14,
+        "categoriaId": 3,
+        "titulo": "Altered Carbon",
+        "url": "https://youtu.be/mKSDlkxAPZU"
+      },
+      {
+        "id": 15,
+        "categoriaId": 3,
+        "titulo": "Mr Robot",
+        "url": "https://youtu.be/8qZYW_1hj2g"
+      },
+      {
+        "id": 16,
+        "categoriaId": 3,
+        "titulo": "3%",
+        "url": "https://youtu.be/LR5vVv2RDLw"
+      },
+      {
+        "id": 17,
+        "categoriaId": 3,
+        "titulo": "Black Mirror",
+          "url": "https://youtu.be/mEWEmQBDIvI"
+      },
+      {
+        "id": 18,
+        "categoriaId": 4,
+        "titulo": "A Rede Social ",
+        "url": "https://youtu.be/Qwo1S25s_4k"
+      },
+      {
+        "id": 19,
+        "categoriaId": 4,
+        "titulo": "A senha",
+        "url": "https://youtu.be/IOx-zQAUCc0"
+      },
+      {
+        "id": 20,
+        "categoriaId": 4,
+        "titulo": "O Jogo da Imitação",
+        "url": "https://youtu.be/NM4GZ3NQvxQ"
+        },
+      {
+        "id": 21,
+        "categoriaId": 4,
+        "titulo": "Snowden - Herói ou Traidor",
+        "url": "https://youtu.be/cJkp4blUyl8"
+      },
+      {
+        "id": 22,
+        "categoriaId": 5,
+        "titulo": "A história da Ana",
+        "url": "https://youtu.be/nngF9N6ePgY"
+      },
+      {
+        "id": 23,
+        "categoriaId": 5,
+        "titulo": "3 Técnicas Que Eu Uso Para Aprender a Programar Qualquer Coisa (mesmo sem ter o dom da programação)",
+        "url": "https://youtu.be/ZtMzB5CoekE"
+      },
+      {
+        "id": 24,
+        "categoriaId": 5,
+        "titulo": "Como começar a programar?",
+        "url": "https://youtu.be/nLPssMXOExM"    
+      },
+      {
+        "id": 25,
+        "categoriaId":5 ,
+        "titulo": "Desafio: 10 projetos rápidos para treinar Programação e conseguir um Emprego",
+        "url": "https://youtu.be/fYR9L2ZmodM"
+      },
+      {
+        "id": 26,
+        "categoriaId": 5,
+        "titulo": "Programadores Altamente Eficazes: 7 Hábitos",
+        "url": "https://youtu.be/cJx0k_ln1-g"
+      },
+      {
+        "id": 27,
+        "categoriaId": 6,
+        "titulo": "Beethoven - Für Elise",
+        "url": "https://youtu.be/wfF0zHeU3Zs"
+      },
+      {
+        "id": 28,
+        "categoriaId": 6,
+        "titulo": "Samba Pa Ti",
+        "url": "https://youtu.be/timZoOs9ozo"
+      },
+      {
+        "id": 29,
+        "categoriaId": 6,
+        "titulo": "Stevie Ray Vaughan - Little Wing",
+        "url": "https://youtu.be/An4uDegHB8s"
+      },
+      {
+        "id": 30,
+        "categoriaId": 6,
+        "titulo": "Stevie Ray Vaughan - Little Wing",
+        "url": "https://youtu.be/An4uDegHB8s" 
+      },
+      {
+        "id": 31,
+        "categoriaId": 6,
+        "titulo": "Moby Dick (2012 Remaster",
+        "url": "https://youtu.be/AwIPiw4_Ba8" 
+      },
+      {
+        "id": 32,
+        "categoriaId": ,
+        "titulo": "YYZ",
+        "url": "https://youtu.be/XCCN5umy9lU"
+      }
+    ]
+  }

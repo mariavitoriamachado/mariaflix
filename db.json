@@ -3,19 +3,18 @@
       {
         "id": 1,
         "titulo": "Hipters Ponto Tube",
-        "cor": "#6BD1FF",
+        "cor": "#6BD1FF"
       },
       {
         "id": 2,
         "titulo": "Livros",
-        "cor": "#00C86F",
+        "cor": "#00C86F"
         
       },
       {
         "id": 3,
         "titulo": "Séries",
-        "cor": "#9cd33b",
-       
+        "cor": "#9cd33b"     
       },
       {
         "id": 4,
@@ -25,14 +24,12 @@
       {
         "id": 5,
         "titulo": "Inspiração",
-        "cor": "#6b5be2",
-       
+        "cor": "#6b5be2"  
       },
       {
         "id": 6,
         "titulo": "Músicas",
-        "cor": "red",
-       
+        "cor": "red"       
       }
     ],
     "videos": [

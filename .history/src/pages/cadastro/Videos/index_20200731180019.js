@@ -6,7 +6,7 @@ import FormField from '../../../components/FormField';
 import Button from '../../../components/Button';
 import videosRepository from '../../../repositories/videos';
 import categoriasRepository from '../../../repositories/categorias';
- 
+
 function CadastroVideo() {
     const history = useHistory();
     const [categorias, setCategorias] = useState([]);
